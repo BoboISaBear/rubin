@@ -1,0 +1,54 @@
+body {
+    overflow-x:hidden; 
+   
+}
+#head {
+    color:white;
+    font-size:100px;
+    text-align:center;
+    background-image: url(image1.jpg); 
+    background-size: 100% 100%; 
+    padding-bottom:150px ;
+    padding-top:150px;
+    
+    
+}
+#overlapPic {
+    text-align:center;
+    float:right;
+    float:top;
+
+}
+li a:hover {
+    background-color: black;
+    color: white;
+}
+#Staff {
+    background-color: black;
+}
+#OurStaff {
+    text-align: center;
+    color:white;
+}
+#people {
+    text-align: center;
+    color:white;
+    
+}
+.red {
+    
+    color:white;
+    margin-bottom:30px;
+    
+    padding: 30px;
+}
+.black {
+    
+    color:black;
+    
+    
+    padding: 30px;
+}
+.rounded-circle {
+    margin-bottom:100px;
+}

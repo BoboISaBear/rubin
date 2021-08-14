@@ -1,0 +1,27 @@
+.heading {
+
+    
+    color:white;
+    font-size:100px;
+    text-align:center;
+    background-image: url(image1.jpg); 
+    background-size: 100% 100%; 
+    padding-bottom:60px ;
+    padding-top:60px;
+}
+
+#Staff {
+    background-color:blue;
+}
+#OurStaff {
+    text-align: center;
+    color:white;
+}
+#people {
+    text-align: center;
+    color:white;
+    
+}
+li a {
+    color:yellow;
+}

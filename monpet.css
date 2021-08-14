@@ -1,0 +1,38 @@
+#body{
+    height:100%;
+    background-color: #000;
+    opacity: .7;
+    background-image: url('German-shepherd.jpg');
+
+    background-position: center;
+    
+
+    
+}
+.logo-head {
+    opacity: 1.5;
+    padding-top: 200px
+    
+}
+p {
+    color:black;
+    font-size: 30px;
+}
+#lalala {
+    margin-top:-600px;
+}
+#butto {
+    background-color: orange;
+    border: 2px solid black;
+    border-radius:10px;
+    color:white;
+}
+li a {
+    color:orange;
+}
+#la {
+    color:green;
+    border: 2px solid green;
+    border-radius: 10px;
+    opacity:.7;
+}
